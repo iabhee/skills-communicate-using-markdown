@@ -12,7 +12,6 @@
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
-
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
@@ -41,6 +40,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+###### This is header `<h7>`
 ```
 
 #### How it looks
